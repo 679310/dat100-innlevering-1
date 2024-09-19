@@ -10,10 +10,10 @@ import static javax.swing.JOptionPane.*;
 public class O3 {
 
 	public static void main(String[] args) {
-		int sum = 1;
+		
+		int sum = 1;	
 		
 		String nTxt = showInputDialog("Gi eit heiltal:");
-
 		int n = parseInt(nTxt);
 		
 
